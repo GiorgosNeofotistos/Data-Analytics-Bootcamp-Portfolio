@@ -1,24 +1,27 @@
-📊 Power BI Data Analytics Project
-This Power BI report was created as part of the Workearly Data Analytics Bootcamp. It demonstrates skills in creating measures, using various visualizations, and designing interactive dashboards.
+📊 # Quality Dashboard - Power BI Project
 
-Project Overview
-This report includes:
+This Power BI project is based on exercises from the Data Analytics Bootcamp by Workearly.  
+It demonstrates skills in DAX measure creation, data visualization, and report formatting using various Power BI visual types.
 
-Custom measures such as Sampling%, Defects%, Fatal Errors%, and Quality Score using DAX formulas.
+## Exercises included:
 
-Visualizations including Card charts, Gauge charts, Scatter plots, Area charts, Donut charts, Clustered Bar charts, and Map charts.
+1. Created DAX measures: `Sampling%`, `Defects%`, `Fatal Errors%`, and `Quality score` using DIVIDE function.
+2. Loaded custom background images to enhance report aesthetics.
+3. Visualized key metrics using Card visuals.
+4. Used Gauge chart to display Quality Score percentage.
+5. Created Scatter chart visualizing Samples vs Defects by Employee with point size and Play Axis based on Fatal Errors.
+6. Displayed Fatal Errors by month using an Area chart.
+7. Used Donut chart for Quality Score by Supervisor with customized data labels.
+8. Clustered Bar chart for Sampling% by Supervisor.
+9. Map chart for Quality Score by Work Location.
+10. Created a tooltip page ("EMP Tooltip") with Clustered Bar chart for Quality Score by Employee and linked it to the main dashboard.
+11. Added custom background images and formatted pages accordingly.
 
-Tooltip page for enhanced data exploration.
+## How to Use
 
-Background images are embedded directly into the Power BI file.
+Open the `.pbix` file in Power BI Desktop to explore the report. All visuals are interactive, and tooltips provide additional insights.
 
-Data analysis based on the provided dataset with real-world quality control metrics.
+## Notes
 
-Disclaimer
-The exercises and datasets used in this project are part of the Workearly Data Analytics Bootcamp curriculum. This report is created solely for educational purposes and personal portfolio development.
-
-File Details
-PowerBI_Assignment.pbix — Power BI report file containing all data, measures, visuals, and embedded backgrounds.
-
-How to Use
-Open the .pbix file in Power BI Desktop to explore the report. All visuals are interactive, and tooltips provide additional insights.
+- The data used and exercises are from the Workearly Data Analytics Bootcamp.
+- Map visual may require enabling map visuals in Power BI settings if errors occur.
