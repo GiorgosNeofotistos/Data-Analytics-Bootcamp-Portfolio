@@ -1,124 +1,108 @@
-📈 Data Analytics Bootcamp Portfolio
+# 📈 Data Analytics Bootcamp Portfolio
 
 Καλωσήρθες στο portfolio μου!
 
-Ονομάζομαι Γιώργος Νεοφώτιστος και αυτό το αποθετήριο περιλαμβάνει τα projects που ολοκλήρωσα κατά τη διάρκεια του Data Analytics Bootcamp. Το περιεχόμενο καλύπτει βασικά εργαλεία και τεχνικές όπως:
+Ονομάζομαι **Γιώργος Νεοφώτιστος** και αυτό το αποθετήριο περιλαμβάνει τα projects που ολοκλήρωσα κατά τη διάρκεια του Data Analytics Bootcamp. Το περιεχόμενο καλύπτει βασικά εργαλεία και τεχνικές όπως:
 
 - Excel, SQL, Power BI, Tableau
-
 - Python για Data Analysis (Pandas, Seaborn, Matplotlib, Plotly)
-
 - BigQuery και βασικές cloud έννοιες
 
 Στόχος μου είναι να αναδείξω τις δεξιότητές μου στην ανάλυση δεδομένων και στη δημιουργία insights μέσα από ρεαλιστικά σενάρια.
 
-📃 Περιεχόμενα
+---
 
-- Excel Project
+## 📃 Περιεχόμενα
 
-- Power BI Dashboard
+- [Excel Project](#✏️-excel-project)
+- [Power BI Dashboard](#🌟-power-bi-dashboard)
+- [Tableau Dashboard](#🌐-tableau-dashboard)
+- [SQL Case Studies](#🔢-sql-case-studies)
+- [Python Projects](#🐉-python-projects)
+- [BigQuery](#☁️-bigquery)
+- [Τεχνολογίες](#🔧-τεχνολογίες)
+- [Επικοινωνία](#🙋️‍♂️-επικοινωνία)
 
-- Tableau Dashboard
+---
 
-- SQL Case Studies
+## ✏️ Excel Project
 
-- Python Projects
+**Τίτλος**: Sales & Profit Analysis
 
-- BigQuery
+- Pivot tables, conditional formatting, advanced formulas (INDEX-MATCH)
+- Δυναμικά dashboards με slicers & drop-downs
+- Επιχειρηματικά KPIs: Revenue, Profit, Growth
 
-- Τεχνολογίες
+![Excel Dashboard](./assets/screenshots/excel-dashboard.png)
 
-- Επικοινωνία
-  
+---
 
-  ✏️ Excel Project
+## 🌟 Power BI Dashboard
 
-Τίτλος: Sales & Profit Analysis
+**Τίτλος**: Retail Sales Insights
 
-Pivot tables, conditional formatting, advanced formulas (INDEX-MATCH)
+- Καθαρισμός & μετασχηματισμός δεδομένων στο Power Query
+- DAX measures για KPIs (Total Sales, YOY Growth, Profit Margin)
+- Interactive dashboard με slicers ανά κατηγορία & περιοχή
 
-Δυναμικά dashboards με slicers & drop-downs
+![Power BI Dashboard](./assets/screenshots/powerbi-dashboard.png)
 
-Επιχειρηματικά KPIs: Revenue, Profit, Growth
+---
 
+## 🌐 Tableau Dashboard
 
+**Τίτλος**: Global Superstore Performance
 
-🌟 Power BI Dashboard
+- Visualization of sales by region & segment
+- Drill-down analysis by product category
+- Trend analysis ανά μήνα
 
-Τίτλος: Retail Sales Insights
+![Tableau Dashboard](./assets/screenshots/tableau-dashboard.png)
 
-Καθαρισμός & μετασχηματισμός δεδομένων στο Power Query
+---
 
-DAX measures για KPIs (Total Sales, YOY Growth, Profit Margin)
+## 🔢 SQL Case Studies
 
-Interactive dashboard με slicers ανά κατηγορία & περιοχή
+**DBMS**: MySQL
 
+- Χρήση CTEs, Window Functions, GROUP BY, JOINs, Subqueries
+- Ανάλυση πωλήσεων ανά κατάστημα & προϊοντική κατηγορία
+- Optimization με indexes και EXPLAIN
 
+---
 
-🌐 Tableau Dashboard
+## 🐉 Python Projects
 
-Τίτλος: Global Superstore Performance
+**Βιβλιοθήκες**: Pandas, Numpy, Seaborn, Matplotlib, Plotly
 
-Visualization of sales by region & segment
+- Exploratory Data Analysis (EDA) σε datasets (π.χ., e-commerce, health)
+- Οπτικοποίηση με γραφήματα, heatmaps & boxplots
+- Bonus: ML classification μοντέλο με scikit-learn (Logistic Regression)
 
-Drill-down analysis by product category
+---
 
-Trend analysis ανά μήνα
+## ☁️ BigQuery
 
+- Ανάλυση μεγάλων datasets (π.χ., Google Analytics sample)
+- Χρήση SQL στο cloud
+- Δημιουργία views, aggregation, joins με gigabytes δεδομένων
 
+---
 
-🔢 SQL Case Studies
+## 🔧 Τεχνολογίες
 
-DBMS: MySQL
+- Excel, MySQL, Power BI, Tableau
+- Python, Pandas, Seaborn, Plotly
+- Git, GitHub, BigQuery
 
-Χρήση CTEs, Window Functions, GROUP BY, JOINs, Subqueries
+---
 
-Ανάλυση πωλήσεων ανά κατάστημα & προϊοντική κατηγορία
-
-Optimization με indexes και EXPLAIN
-
-
-
-🐉 Python Projects
-
-Βιβλιοθήκες: Pandas, Numpy, Seaborn, Matplotlib, Plotly
-
-Exploratory Data Analysis (EDA) σε datasets (π.χ., e-commerce, health)
-
-Οπτικοποίηση με γραφήματα, heatmaps & boxplots
-
-Bonus: ML classification μοντέλο με scikit-learn (Logistic Regression)
-
-
-
-☁️ BigQuery
-
-Ανάλυση μεγάλων datasets (π.χ., Google Analytics sample)
-
-Χρήση SQL στο cloud
-
-Δημιουργία views, aggregation, joins με gigabytes δεδομένων
-
-
-
-
-🔧 Τεχνολογίες
-
-Excel, MySQL, Power BI, Tableau
-
-Python, Pandas, Seaborn, Plotly
-
-Git, GitHub, BigQuery
-
-
-
-🙋️‍♂️ Επικοινωνία
+## 🙋️‍♂️ Επικοινωνία
 
 Μπορείς να επικοινωνήσεις μαζί μου ή να δεις περισσότερα στο:
 
-LinkedIn: www.linkedin.com/in/george-neofotistos94
+- [LinkedIn](https://www.linkedin.com/in/giorgosneofotistos/)
+- Email: neofotistosg@hotmail.com
 
-Email: neofotistosg@hotmail.com
-
-**Ευχαριστώ που το επισκέφτηκες!**
+Ευχαριστώ που το επισκέφτηκες!
 
