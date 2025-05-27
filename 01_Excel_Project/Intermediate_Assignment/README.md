@@ -22,6 +22,10 @@ The assignment includes tasks such as:
 - The data has been anonymized to protect personal information.  
 - No screenshots are provided, but the Excel workbook is organized with clear sheets for each task.
 
+##Disclaimer:
+- The exercises included are based on the curriculum from the Data Analytics Bootcamp by Workearly.
+They are shared here for educational and portfolio purposes only.
+
 ---
 
 Feel free to explore the workbook to see detailed solutions and the approach taken for each task.
