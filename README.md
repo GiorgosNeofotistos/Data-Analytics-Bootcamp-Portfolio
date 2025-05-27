@@ -33,7 +33,7 @@
 - Δυναμικά dashboards με slicers & drop-downs
 - Επιχειρηματικά KPIs: Revenue, Profit, Growth
 
-![Excel Dashboard](./assets/screenshots/excel-dashboard.png)
+![Excel Dashboard](./assets/screenshots/excel_pic.png)
 
 ---
 
@@ -45,7 +45,7 @@
 - DAX measures για KPIs (Total Sales, YOY Growth, Profit Margin)
 - Interactive dashboard με slicers ανά κατηγορία & περιοχή
 
-![Power BI Dashboard](./assets/screenshots/powerbi-dashboard.png)
+![Power BI Dashboard](./assets/screenshots/powerBI_pic.png)
 
 ---
 
@@ -57,7 +57,7 @@
 - Drill-down analysis by product category
 - Trend analysis ανά μήνα
 
-![Tableau Dashboard](./assets/screenshots/tableau-dashboard.png)
+![Tableau Dashboard](./assets/screenshots/tableau_pic.png)
 
 ---
 
