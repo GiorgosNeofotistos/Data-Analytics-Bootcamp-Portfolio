@@ -45,7 +45,7 @@
 - DAX measures για KPIs (Total Sales, YOY Growth, Profit Margin)
 - Interactive dashboard με slicers ανά κατηγορία & περιοχή
 
-![Power BI Dashboard](./assets/screenshots/powerBI_pic.png)
+![Power BI Dashboard](./assets/screenshots/powerBI_pic.jpg)
 
 ---
 
@@ -57,7 +57,7 @@
 - Drill-down analysis by product category
 - Trend analysis ανά μήνα
 
-![Tableau Dashboard](./assets/screenshots/tableau_pic.png)
+![Tableau Dashboard](./assets/screenshots/tableau_pic.jpg)
 
 ---
 
